@@ -1,6 +1,3 @@
-// PROJECT 2 / TYMOTEUSZ RAFAL DOBRAS / A.M: 2121012
-//				 	 / IOANNIS ION DERVENTZIS / A.M: 2121229
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
