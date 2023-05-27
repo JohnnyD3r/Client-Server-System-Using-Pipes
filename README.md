@@ -1,4 +1,4 @@
-```
+
 # Cinema Ticket Booking System
 
 This is a simple cinema ticket booking system implemented in C. It simulates a cinema where clients can request tickets for movies, and the server processes the requests and responds accordingly.
