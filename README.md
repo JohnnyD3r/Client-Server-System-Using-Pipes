@@ -34,7 +34,3 @@ You can customize the system by modifying the following constants defined in the
 - `SERVICE_TIME`: Time to process a booking request in microseconds (default: 500,000, equivalent to 0.5 seconds).
 
 Feel free to modify these values according to your requirements.
-
-
-```
-
